@@ -138,7 +138,7 @@ public class FrmManteProd extends JFrame {
 	}
 	
 	void listado() {
-		
+		/*hola*/
 	}
 	
 	void registrar() {
